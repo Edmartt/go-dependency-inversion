@@ -1,16 +1,16 @@
-#Go Practice
+# Go Practice
 
 A Go practice for understanding the DI principle and making an application with DAO pattern
 
 ## Running this project
 
 
-- 1 Clone the project
+- 1. Clone the project
 ```
 https://github.com/Edmartt/go-dependency-inversion.git
 ```
 
-- 2 Download dependencies
+- 2. Download dependencies
 
 ```
 go mod download
